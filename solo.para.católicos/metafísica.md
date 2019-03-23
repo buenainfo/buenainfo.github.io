@@ -682,12 +682,10 @@ body {
 • Santísima Confesión. Padre Wilson Hernán Salazar Hernández.<br>
 
 <br><br>
-</div>
+
     <p style="text-align: center;"><span ><strong
           class="western"><span ><a href="./La-Metaf%C3%ADsica-como-Religi%C3%B3n-un-enga%C3%B1o-m%C3%A1s-de-la-New-Age.pdf">&#x21E8; Versión PDF para imprimir</a><br>
           </span></strong></span></p>
 
-<br><br><br>
-</body> 
-</html>
+
 
